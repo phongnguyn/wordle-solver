@@ -1,2 +1,2 @@
 # wordle-solver
-# new_
+new_words_dictionary.json  
